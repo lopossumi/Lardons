@@ -9,6 +9,7 @@ favorite: ✓
 sweet: ✓
 umami: ✓
 source: https://www.justonecookbook.com/tamagoyaki-japanese-rolled-omelette/
+image: tamagoyaki.jpg
 ---
 
 * `3` kananmunaa

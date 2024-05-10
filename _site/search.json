@@ -1,4 +1,5 @@
 [
 {"author":"Riku","category":"Aamiaiset","description":"Klassinen lämmin aamiaisleipä.","favorite":"✓","htmlfile":"croque_monsieur.html","size":"4 annosta","time":"30 min","title":"Croque monsieur"}
-,{"author":"milo","category":"Japani","description":"Japanilainen makeahko munakasrulla.","favorite":"✓","htmlfile":"tamagoyaki.html","original_title":"卵焼き","source":"https://www.justonecookbook.com/tamagoyaki-japanese-rolled-omelette/","sweet":"✓","time":"30 min","title":"Tamagoyaki","umami":"✓"}
+,{"author":"Riku","category":"Aasia","description":"Sichuanin alueen kenties tunnetuin resepti.","favorite":"✓","htmlfile":"mapo_tofu.html","original_title":"麻婆豆腐","time":"1 h","title":"Mapo tofu","umami":"✓"}
+,{"author":"milo","category":"Japani","description":"Japanilainen makeahko munakasrulla.","favorite":"✓","htmlfile":"tamagoyaki.html","image":"tamagoyaki.jpg","original_title":"卵焼き","source":"https://www.justonecookbook.com/tamagoyaki-japanese-rolled-omelette/","sweet":"✓","time":"30 min","title":"Tamagoyaki","umami":"✓"}
 ]
