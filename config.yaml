@@ -1,10 +1,6 @@
 # Text shown on the index page.
-index_title: I Can't Believe It's Not a Cookbook!
-index_description:
-  Po-tay-toes. Boil 'em, mash 'em, stick 'em in a stew. Lovely big golden chips
-  with a nice piece of fried fish. Even you couldn't say no to that. My mom
-  always said life was like a box of chocolates. *You never know what you're
-  gonna get.*
+index_title: Les Lardons<br>Reseptikirja
+index_description: 🐷 L-sana on kaunis sana. ❤️
 
 # Whether to show each recipe's image, if available, on the index page. To
 # enable, set this option to any non-empty value (other than "false" in recent
@@ -13,22 +9,22 @@ show_images_on_index:
 
 # You can change the content language (really only relevant for hyphenation)
 # and related textual labels here.
-lang: en
+lang: fi
 strings:
-  search_placeholder: Search...
-  uncategorized_label: Uncategorized
-  source_label: Source
-  vegan_label: Vegan
-  meat_label: Meat
-  spicy_label: Spicy
-  sweet_label: Sweet
-  salty_label: Salty
-  sour_label: Sour
-  bitter_label: Bitter
+  search_placeholder: Hae...
+  uncategorized_label: Lajittelemattomat
+  source_label: Lähde
+  vegan_label: Vegaani
+  meat_label: Eläin
+  spicy_label: Tulinen
+  sweet_label: Makea
+  salty_label: Suolainen
+  sour_label: Hapan
+  bitter_label: Kitkerä
   umami_label: Umami
-  footer_text: Enjoy!
-  updated_on: Updated on
-  edit: Edit
+  footer_text: Bon appetit!
+  updated_on: Päivitetty
+  edit: Muokkaa
 
 # If you maintain your recipes in a GitHub repository, you can specify its URL
 # here – if non-empty, an "Edit" link will be shown at the bottom of each recipe
