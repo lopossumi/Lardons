@@ -1,5 +1,5 @@
 ---
-title: Croque monsieur
+title: Croque Monsieur
 category: Aamiaiset
 description: Klassinen lämmin aamiaisleipä.
 time: 30 min

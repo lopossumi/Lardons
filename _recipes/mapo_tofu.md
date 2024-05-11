@@ -1,5 +1,5 @@
 ---
-title: Mapo tofu
+title: Mapo Tofu
 original_title: 麻婆豆腐
 category: Aasia
 description: Sichuanin alueen kenties tunnetuin resepti.

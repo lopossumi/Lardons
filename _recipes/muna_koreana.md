@@ -1,7 +1,7 @@
 ---
 title: Muna koreana (Gyeran bap)
 original_title: 계란 밥
-category: Aasia
+category: Aamiaiset
 description: Korealainen munariisiaamiainen.
 time: 30 min
 author: Riku
