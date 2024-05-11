@@ -7,6 +7,8 @@ time: 1 h
 author: Riku
 favorite: ✓
 umami: ✓
+spicy: ✓
+image: mapo_tofu.jpg
 ---
 
 * `450 g` pehmeää tofua 
@@ -19,25 +21,87 @@ umami: ✓
 * `2 rkl` raastettua inkivääriä
 * `2,5 dl` kanalientä
 * `1 varsi` kevätsipulia
-* `1 rkl` vaalea soijakastiketta
+* `1 rkl` vaaleaa soijakastiketta
 * `1 rkl` Shaoxing-viiniä
 * `¼ tl` MSG:tä
 * `¼ tl` valkopippurijauhetta
 * `½ rkl` paahdettua seesamiöljyä
-* `1 rkl` maissijauhoja
+* `1 rkl` maissitärkkelystä
 
-> Käytä soft/silken/pressed tofua, ei kiinteää - muutoin maut eivät imeydy.
+>>> Käytä soft/silken/pressed tofua, ei kiinteää - muutoin maut eivät imeydy.
 >
-> Soijakastikkeeksi käy esim. Pearl River Bridge Superior Light Soy Sauce.
+>>> Soijakastikkeeksi käy esim. Pearl River Bridge Superior Light Soy Sauce.
 >
 >>> Shaoxing-viiniä myydään useissa Hakaniemen aasiakaupoissa.
 
+## Preppailut
+
 ---
 
-1. Kuutioi tofu.
-2. Raasta inkivääri ja hienonna valkosipuli.
-3. Paloittele kevätisipuli ohuiksi renkaiksi.
-4. Valmista kanaliemi (esim. puolikkasta kanaliemikuutiosta).
-5. Sekoita maissijauho pieneen tilkkaan kylmää vettä.
-6. Jos chilipaputahnassa on isoja sattumia, hienonna se.
-7. Paahda sichuan-pippureita kuivassa wokkipannussa keskilämmöllä kunnes ne alkavat tuoksua. Säästä neljännes koristeeksi ja jauha loput.
+> Kuutioi tofu.
+
+---
+
+> Raasta inkivääri ja hienonna valkosipuli.
+
+---
+
+> Paloittele kevätisipuli ohuiksi renkaiksi.
+
+---
+
+> Valmista kanaliemi (esim. puolikkasta kanaliemikuutiosta).
+
+---
+
+> Sekoita maissitärkkelys pieneen tilkkaan kylmää vettä.
+
+---
+
+> Jos chilipaputahnassa on isoja sattumia, hienonna se.
+
+---
+
+> Paahda sichuan-pippureita kuivassa wokkipannussa keskilämmöllä kunnes ne alkavat tuoksua. Säästä neljännes koristeeksi ja jauha loput.
+
+## Valmistus
+
+---
+
+> Kuumenna ruokaöljy hyvin kuumaksi wokissa ja paista jauheliha ylikypsäksi ja rapeaksi.
+
+---
+
+> Laita lämpö pois ja anna pannun jäähtyä hieman. Lisää papuchilitahna ja paista sitä muutama minuutti keskiteholla.
+
+---
+
+> Lisää valkosipuli, inkivääri, (fermentoidut pavut) ja paista minuutti.
+
+---
+
+> Lisää kanaliemi ja tofu.
+
+---
+
+> Keitä kasaan kovahkolla teholla kymmenen minuuttia niin että kastike keittyy hieman kasaan.
+
+---
+
+> Lisää soijakastike, viini, MSG, valkopippurijauhe ja seesamiöljy.
+
+---
+
+> Lisää puolet maissitärkkelysliuoksesta. Jos kastikkeesta ei tule tarpeeksi paksua, lisää loput.
+
+---
+
+> Lisää kevätisipuli, mutta jätä vähän koristeeksi. Sekoita ja paista 30 sekuntia. 
+
+---
+
+> Ota pois lämmöltä ja sekoita mukaan sechuanpippurijauhe. Ripottele koristeeksi päälle kokonaiset sechuanpippurit ja loput kevätsipulit.
+
+---
+
+> Tarjotaan riisin kanssa.
