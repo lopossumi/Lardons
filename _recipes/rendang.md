@@ -49,7 +49,7 @@ source: https://norecipes.com/beef-rendang-recipe/
 
 > Paista currytahnaa öljyssä miedolla lämmöllä, kunnes suurin osa nesteestä on haihtunut (n. 10-15 minuuttia). Jos tahna alkaa palaa, lisää hieman vettä.
 
-## Haudutus
+## Haudutusvaihe
 
 ---
 
@@ -66,9 +66,13 @@ source: https://norecipes.com/beef-rendang-recipe/
 
 > Laita hella pienelle lämmölle ja anna padan hautua raollaan olevan kannen alla. Hauduttele 3-4 tuntia toisinaan hämmentäen, kunnes liha on hyvin mureaa.
 
+## Redusointi
+
 ---
 
 > Hauduttelun jälkeen ota kansi pois ja nosta lämpöä. Keitä pataa mahdollisimman paljon kasaan jatkuvasti hämmentäen.
+
+>>> Varo polttamasta pataa pohjaan tässä vaiheessa! Hämmennä huolellisesti pohjasta asti.
 
 ---
 
