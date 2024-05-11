@@ -296,7 +296,7 @@ h2 {
     font-size: 0.8em;
     letter-spacing: 0.1em;
     font-weight: normal;
-    counter-reset: step;  /* handy if used on a recipe page */
+    /* counter-reset: step;  handy if used on a recipe page */
     clear: both;
 }
 h3 {
