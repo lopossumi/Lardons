@@ -15,7 +15,7 @@ image: mapo_tofu.jpg
 * `100 g` jauhelihaa (possu tai nauta)
 * `5 rkl` ruokaöljyä
 * `1 rkl` sichuan-pippureita
-* `3 rkl` doubanjiangia
+* `3 rkl` chilipaputahnaa (doubanjiang)
 * `1 rkl` (valinnainen) fermentoituja mustia papuja
 * `4 kynttä` valkosipulia
 * `2 rkl` raastettua inkivääriä
