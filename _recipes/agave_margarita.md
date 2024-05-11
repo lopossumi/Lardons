@@ -5,6 +5,7 @@ description: Agaveversio Margaritasta.
 time: 5 min
 author: Riku
 favorite: ✓
+vegan: ✓
 size: 1 annos
 ---
 
@@ -13,7 +14,6 @@ size: 1 annos
 * `2 cl` agavesiirappia
 * suolaa
 * jäämurskaa
-
 
 ---
 
@@ -30,6 +30,3 @@ size: 1 annos
 ---
 
 > Kaada juoma lasiin.
-
-
-
