@@ -66,7 +66,7 @@ source: https://www.youtube.com/watch?v=SPum_xK5618
 
 ---
 
-* `90 ml` double (heavy) cream
+* `90 ml` kuohukermaa
 * `50 g` parmesania raastettuna
 * `90 g` babypinaattia
 * `1 rkl` hakattua persiljaa
