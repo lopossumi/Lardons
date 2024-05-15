@@ -30,6 +30,8 @@ source: https://viiniposti.fi/blogs/lautasella/peurapata
 
 ## Valmistus
 
+---
+
 > Kuori ja leikkaa sipulit lohkoiksi. Pese ja kuori porkkanat, leikkaa paloiksi. Kuori ja siivuta valkosipulinkynnet. Pese purjo ja siivuta valkoinen osa.
 
 ---
@@ -38,7 +40,15 @@ source: https://viiniposti.fi/blogs/lautasella/peurapata
 
 ---
 
-> Leikkaa peuran kulmapaisti ja ulkopaisti suupaloiksi ja paista pannulla pinnat ruskeiksi. Siirrä paistetut lihapalat pataan vihannesten joukkoon. Lisää pari-kolme ruokalusikallista jauhoja ja sekoita hyvin. Kaada pataan nesteet, mausteet, riistafondi sekä Worcesterkastike. Kypsennä peurapataa 160 asteisessa uunissa noin 4 tunnin ajan, kunnes liha on kypsää ja mureaa.
+> Leikkaa peuran kulmapaisti ja ulkopaisti suupaloiksi ja paista pannulla pinnat ruskeiksi. Siirrä paistetut lihapalat pataan vihannesten joukkoon. 
+
+---
+
+> Lisää pari-kolme ruokalusikallista jauhoja ja sekoita hyvin. Kaada pataan nesteet, mausteet, riistafondi sekä Worcesterkastike. 
+
+---
+
+> Kypsennä peurapataa 160-asteisessa uunissa noin 4 tunnin ajan, kunnes liha on kypsää ja mureaa.
 
 ---
 
