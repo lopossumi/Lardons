@@ -1,7 +1,7 @@
 ---
 title: Peurapata
 category: Eurooppa
-description: Herkullinen ja hidas pataruoka
+description: Herkullinen ja hidas pataruoka.
 time: 1 h
 author: Riku
 source: https://viiniposti.fi/blogs/lautasella/peurapata

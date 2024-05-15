@@ -2,6 +2,7 @@
 title: Fondue (virallinen)
 description: Kuumaa, sulatettua juustoa. Mitä muuta tarvitset?
 author: Riku
+category: Eurooppa
 ---
 
 * `1 osa` Vacherin Fribourgeis

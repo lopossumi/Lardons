@@ -3,6 +3,7 @@ title: Toscanan kana
 description: Hyvä ja varmasti onnistuva ohje.
 author: Riku
 source: https://www.youtube.com/watch?v=SPum_xK5618
+category: Eurooppa
 ---
 
 > Laita uuni lämpenemään 160 asteeseen.
