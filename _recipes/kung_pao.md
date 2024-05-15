@@ -35,11 +35,11 @@ image: kung_pao.jpg
 * `1 rkl` paahdettua seesamiöljyä
 * `1,5 rkl` sokeria
 * `1 rkl` maissitärkkelystä
-* `0,5 tl` sichuan-pippuria
+* `0,5 tl` sichuan-pippuria murskattuna
 * `1 dl` vettä
 * Inkivääriä raastettuna
 
-> Sekoita kastikkeen ainekset keskenään.
+>>> Voit halutessasi paahtaa sichuan-pippureita hetken kuivalla pannulla ennen murskaamista.
 
 ## Valmistus
 
