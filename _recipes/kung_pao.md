@@ -32,7 +32,7 @@ sweet: ✓
 * `1 rkl` paahdettua seesamiöljyä
 * `1,5 rkl` sokeria
 * `1 rkl` maissitärkkelystä
-* `0,5 tl` punapippuria
+* `0,5 tl` sichuan-pippuria
 * `1 dl` vettä
 * inkivääriä raastettuna
 
