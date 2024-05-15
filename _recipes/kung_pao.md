@@ -7,6 +7,7 @@ time: 45 min
 author: Riku
 umami: ✓
 sweet: ✓
+image: kung_pao.jpg
 ---
 
 > Esivalmistelut: Aloita marinoimalla kana ja valmistamalla kastike.
@@ -20,7 +21,9 @@ sweet: ✓
 * `1 rkl` Shaoxing-viiniä
 * `2 rkl` maissitärkkelystä
 
-> Marinoi kanaa vartti.
+> Marinoi kanaa vähintään vartti.
+
+> ![](kung_pao_marinade.jpg)
 
 ## Kastike
 
@@ -32,9 +35,9 @@ sweet: ✓
 * `1 rkl` paahdettua seesamiöljyä
 * `1,5 rkl` sokeria
 * `1 rkl` maissitärkkelystä
-* `0,5 tl` punapippuria
+* `0,5 tl` sichuan-pippuria
 * `1 dl` vettä
-* inkivääriä raastettuna
+* Inkivääriä raastettuna
 
 > Sekoita kastikkeen ainekset keskenään.
 
@@ -46,26 +49,26 @@ sweet: ✓
 * `2` sellerinvartta viipaloituna
 * `¼ tl` suolaa
 * `3` valkosipulinkynttä hienonnettuna
-* `3` kevätisipulia viipaloituna
+* `3` kevätisipulia renkaina (varret erikseen)
 * `1 dl` paahdettuja suolattomia maapähkinöitä
 * Ruokaöljyä
 
 ---
 
-> Paista paprika ja selleri suolan kanssa, poista pannulta.
+> Paista paprika ja selleri öljyssä suolan kanssa, poista pannulta.
 
 ---
 
-> Paista kana kahdessa erässä, poista pannulta.
+> Paista marinoitu kana kahdessa erässä, poista pannulta.
 
 ---
 
-> Lisää valkosipuli, kevätsipuli ja esipaistetut asiat, paista hetki.
+> Freesaa valkosipulia ja kevätsipulia hetken ajan ja lisää ja esipaistetut asiat.
 
 ---
 
-> Lisää kastike, paista kunnes tihenee.
+> Lisää kastike ja keittele kunnes se saostuu.
 
 ---
 
-> Lisää pähkinät.
+> Lisää paahdetut pähkinät ja kevätsipulin varret.
