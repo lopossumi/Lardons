@@ -7,7 +7,7 @@ time: 30 min
 author: Riku
 umami: ✓
 spicy: ✓
-image: muna_koreana.jpg
+image: muna_koreana.webp
 ---
 
 - Keitettyä riisiä

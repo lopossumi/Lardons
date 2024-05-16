@@ -9,7 +9,7 @@ favorite: ✓
 sweet: ✓
 umami: ✓
 source: https://www.justonecookbook.com/tamagoyaki-japanese-rolled-omelette/
-image: tamagoyaki.jpg
+image: tamagoyaki.webp
 ---
 
 * `3` kananmunaa
@@ -22,7 +22,7 @@ image: tamagoyaki.jpg
 
 > NB: Dashia (esim. kombu dashi) saa jauheena pienissä paketeissa Tokyokanista, tai sen voi valmistaa itse alusta saakka. Ylimääräisen liemen voi käyttää muihin japaniruokiin, kuten miso-keiton pohjaksi.
 
-> ![](tamagoyaki_ingredients.jpg)
+> ![](tamagoyaki_ingredients.webp)
 
 ---
 
@@ -44,19 +44,19 @@ image: tamagoyaki.jpg
 
 > Kaada n. kolmasosa munaseoksesta pannulle ja paista kunnes pinta on miltei hyytynyt. Rullaa munakas pannun kahvanpuoleista reunaa kohti.
 
-> ![](tamagoyaki_rolling.jpg)
+> ![](tamagoyaki_rolling.webp)
 
 ---
 
 > Siirrä rulla pannun vastakkaiseen reunaan reunaan, öljyä pannu tarvittaessa talouspaperin avulla ja kaada uusi kerros seosta pannulle. Nosta munakasrullan reunaa hieman jotta seosta pääsee myös rullan alle. Toista kunnes kaikki seos on käytetty.
 
-> ![](tamagoyaki_layer.jpg)
+> ![](tamagoyaki_layer.webp)
 
 ---
 
 > Leikkaa valmis munakasrulla tarjoilua varten kiekoiksi.
 
-> ![](tamagoyaki_cutting.jpg)
+> ![](tamagoyaki_cutting.webp)
 
 ---
 

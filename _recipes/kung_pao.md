@@ -7,7 +7,7 @@ time: 45 min
 author: Riku
 umami: ✓
 sweet: ✓
-image: kung_pao.jpg
+image: kung_pao.webp
 ---
 
 > Esivalmistelut: Aloita marinoimalla kana ja valmistamalla kastike.
@@ -23,7 +23,7 @@ image: kung_pao.jpg
 
 > Marinoi kanaa vähintään vartti.
 
-> ![](kung_pao_marinade.jpg)
+> ![](kung_pao_marinade.webp)
 
 ## Kastike
 

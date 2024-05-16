@@ -8,7 +8,7 @@ author: Riku
 favorite: ✓
 umami: ✓
 spicy: ✓
-image: mapo_tofu.jpg
+image: mapo_tofu.webp
 ---
 
 * `450 g` pehmeää tofua 
